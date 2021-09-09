@@ -10,3 +10,5 @@ AC 207 - Systems Development for Computational Science
 AC 209a - Data Science 1
 STAT 139 - Linear Models
 STAT 185 - Introduction to Unsupervised Learning
+
+She is a G1 Master's student studying Data Science.
