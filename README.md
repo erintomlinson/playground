@@ -1,4 +1,4 @@
-# Arno's Playground
+# Erin's Playground
 hi hfjksdhfsdkjfhsdkfjsdhfkshdfkjh dsfhjk 
 A place to play with `git`.
 
